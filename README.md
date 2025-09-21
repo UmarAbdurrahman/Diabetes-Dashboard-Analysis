@@ -1,9 +1,4 @@
 # Diabetes Dashboard Analysis
-
-**Author:** Muhammad Umar Abdurrahman
-**Project:** Diabetes Dashboard Analysis
-**Bahasa:** Python / Streamlit (atau sesuai teknologi yang Anda pakai)
-
 ---
 
 ## 📌 Deskripsi Proyek
